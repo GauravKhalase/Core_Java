@@ -27,6 +27,6 @@ public class CountEvenAndOddDigits {
         }
         System.out.println("Total even digits in given number: "+evenCount);
         System.out.println("Total odd digits in given number: "+oddCount);
-        System.out.println("Total 0's in given number: "+zeroCount);+
+        System.out.println("Total 0's in given number: "+zeroCount);
     }
 }

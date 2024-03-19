@@ -8,6 +8,8 @@ class Conditional_Operator
 		int num4 =40;
 
 		int ans = num1 > num2 ? num1 : num2;
+
+		System.out.println ( "The largest number is: " +ans);
 	}
-		System.out.println("The largest number is: " +ans);
+		
 }
